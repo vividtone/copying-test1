@@ -1,0 +1,6 @@
+Redmine Licensing Information
+=============================
+
+Redmine is free software, and it is distributed under the terms of the GNU General Public License version 2 (GPLv2).
+
+For the full text of the license, please see the `COPYING` file located in the `doc` directory.
